@@ -168,7 +168,6 @@ form {
 
 .panel-default {
   border-color: #949595;
-  height: 450px;
 }
 
 .pager li>a {
@@ -190,6 +189,10 @@ h3 {
 
 #bold {
   font-weight: bold;
+}
+#vyska {
+
+height: 450px;
 }
 
 /* end main page */

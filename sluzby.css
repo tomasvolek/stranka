@@ -175,6 +175,9 @@ form {
 
 .panel-default {
   border-color: #949595;
+}
+
+#formular {
   height: 450px;
 }
 

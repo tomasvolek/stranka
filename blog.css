@@ -135,6 +135,7 @@ margin-bottom: 10px;
 
 #formular {
   margin-top: 25px;
+  height: 450px;
 }
 
 #search {
@@ -167,7 +168,7 @@ form {
 }
 
 .panel-default {
-  height: 450px;
+
   border-color: #949595;
 }
 
@@ -192,6 +193,10 @@ img {
 
 #last {
   margin-bottom: 20px;
+}
+
+#vyska {
+  height: 450px;
 }
 
 

@@ -168,8 +168,7 @@ form {
 
 .panel-default {
   border-color: #949595;
-  height: 450px;
-}
+ }
 
 .pager li>a {
   border: 1px solid #949595;
@@ -203,6 +202,10 @@ h3 {
 iframe {
   margin-top: 15px;
   max-width: 100%;
+}
+#vyska {
+
+height: 450px;
 }
 
 /* end main page */

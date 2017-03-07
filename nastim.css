@@ -172,7 +172,6 @@ form {
 
 .panel-default {
   border-color: #949595;
-  height: 450px;
 }
 
 .pager {
@@ -187,7 +186,10 @@ form {
   margin-bottom: 5px;
 }
 
+#vyska {
 
+height: 450px;
+}
 
 
 img {
