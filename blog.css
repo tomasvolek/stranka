@@ -167,6 +167,7 @@ form {
 }
 
 .panel-default {
+  height: 450px;
   border-color: #949595;
 }
 
@@ -191,14 +192,6 @@ img {
 
 #last {
   margin-bottom: 20px;
-}
-
-#kontakt2 {
-  margin-top: 10px;
-  margin-left: 7px;
-  margin-right: 7px;  
-  font-weight: bold;
-  font-size: 18px;
 }
 
 

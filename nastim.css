@@ -172,6 +172,7 @@ form {
 
 .panel-default {
   border-color: #949595;
+  height: 450px;
 }
 
 .pager {
@@ -206,7 +207,7 @@ p {
   text-decoration: underline;
 }
 
-h4 {
+.tel {
   text-align: center;
   font-size: 12px;
   margin: 0;
