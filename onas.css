@@ -197,6 +197,8 @@ form {
 img {
   float: left;
   margin-right: 15px;
+  height: 260px;
+  width: 240px;
 }
 #intro {
   padding-top: 19px;
